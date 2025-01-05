@@ -9,8 +9,8 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 def main():
-    st.set_page_config(page_title="Stock Analysis App", layout="wide")
-    st.title("📈 Stock Analysis App")
+    st.set_page_config(page_title="Stock Nav", layout="wide")
+    st.title("📈 Stock Nav")
     st.subheader("Analyze stock data and generate detailed insights.")
     
     st.sidebar.title("🔍 Company Symbol")
