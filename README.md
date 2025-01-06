@@ -1,2 +1,2 @@
 # StockNav
-A simple, user-friendly tool that guides everyday investors through the basics of stock fundamentals and market trends, helping them make smarter, more confident investment decisions.
+Stock Nav is a Streamlit-based Python application that analyzes a company's stock data from multiple sources (Google Finance, yfinance, Screener.in) and then generates a comprehensive report. It provides technical signals (such as SMA, RSI, MACD, Bollinger Bands, etc.) alongside fundamental data and news highlights, culminating in an automatically generated analysis report in Markdown format.
